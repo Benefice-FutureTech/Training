@@ -1,2 +1,2 @@
 # Training
-Some training exercises for project
+Evelina's training exercises for project

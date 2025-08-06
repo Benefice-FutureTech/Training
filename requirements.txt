@@ -1,0 +1,9 @@
+httpx
+pytest
+fastapi
+uvicorn[standard]
+sqlmodel
+alembic
+asyncpg
+python-jose[cryptography]
+psycopg2-binary
